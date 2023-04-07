@@ -25,9 +25,10 @@ Find the top 10 correlation for the Client with payment difficulties and all oth
 
 Include visualizations and summarize the most important results in the presentation. 
 
-You can access the report here: [Bank Loan CS.pdf](https://github.com/prasadpatilbgm/Bank-Loan-Case-Study/files/11176911/Bank.Loan.CS.pdf)
-
 
 ![Loan_Case](https://user-images.githubusercontent.com/57684274/230561771-495461f4-4fe8-4c8e-8d3c-c2f78634e9db.png)
 
 
+You can access the report here: [Bank Loan CS.pdf](https://github.com/prasadpatilbgm/Bank-Loan-Case-Study/files/11176911/Bank.Loan.CS.pdf)
+
+You can get the datasets here: https://drive.google.com/drive/folders/12bou_cSbucHbYGbcvzrWSmzqd6Mbecut?usp=share_link
